@@ -1,6 +1,6 @@
 # student_structures
  <br>PROJECT IN C USING STRUCTURES <br>
-<img width="478" alt="image" src="https://github.com/yasaswini2005/BTECH-ADMISSION-SYSTEM-IN-C/assets/139364347/00af1067-e9ff-4bd8-821e-7d93156e2b8c">
+<img width="478" alt="image" src="https://github.com/yasaswini2005/BTECH-ADMISSION-SYSTEM-IN-C/assets/139364347/00af1067-e9ff-4bd8-821e-7d93156e2b8c"> <br>
 RESULT: <br>![image](https://github.com/yasaswini2005/BTECH-ADMISSION-SYSTEM-IN-C/assets/139364347/2aaf0736-caa1-4889-affc-37795e10ddab) <br>
  <br>![image](https://github.com/yasaswini2005/BTECH-ADMISSION-SYSTEM-IN-C/assets/139364347/f7e1d53d-c7f2-4632-ad6c-c9ef61313068) <br>
  <br> ![image](https://github.com/yasaswini2005/BTECH-ADMISSION-SYSTEM-IN-C/assets/139364347/a9ef6333-c90b-4444-ae9a-7f6f9d9d3b41) <br>
